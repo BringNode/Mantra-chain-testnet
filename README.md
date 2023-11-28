@@ -5,7 +5,7 @@
   <img height="auto" height="auto" src="https://github.com/BringNode/gitopia/assets/38981255/cd1cad4a-4cec-4bd5-9377-8f063331d1bc">
 </p>
 
-#  MANTRA Chain Incentivized Testnet (Phase 1)
+#  Mantra-chain-testnet (Phase 1)
 
 ##### Dokumentasi
 > - [Dokumentasi](https://docs.mantrachain.io/operate-a-node/initial-setup)
