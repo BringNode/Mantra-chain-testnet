@@ -2,7 +2,7 @@
 <a href="https://t.me/AllexizLens" target="_blank">Join our telegram <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
 
 <p align="center">
-  <img height="auto" height="auto" src="https://github.com/bangpateng/gitopia/assets/38981255/cd1cad4a-4cec-4bd5-9377-8f063331d1bc">
+  <img height="auto" height="auto" src="https://github.com/BringNode/gitopia/assets/38981255/cd1cad4a-4cec-4bd5-9377-8f063331d1bc">
 </p>
 
 #  MANTRA Chain Incentivized Testnet (Phase 1)
@@ -26,7 +26,7 @@
 ## 1. Instal Otomatis
 
 ```
-wget -O mantra.sh https://raw.githubusercontent.com/bangpateng/mantra-testnet-phase-1/main/mantra.sh && chmod +x mantra.sh && ./mantra.sh
+wget -O mantra.sh https://raw.githubusercontent.com/BringNode/mantra-testnet-phase-1/main/mantra.sh && chmod +x mantra.sh && ./mantra.sh
 ```
 
 ## 2. Check Log Sinkron
